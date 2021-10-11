@@ -1,0 +1,7 @@
+{
+    "env":{
+        
+        "MONGO_PASSWORD":"vwGzPJyY5uLt9rR0",
+        "MONGO_DB":"marksheet-table"
+    }
+}
